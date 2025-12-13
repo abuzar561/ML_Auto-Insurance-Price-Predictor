@@ -1,0 +1,3 @@
+pip install pandas scikit-learn streamlit joblib
+
+streamlit run app.py
