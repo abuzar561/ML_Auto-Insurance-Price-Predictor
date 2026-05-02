@@ -1,0 +1,23 @@
+{
+  "State": "California",
+  "Customer Lifetime Value": 8000,
+  "Response": "No",
+  "Coverage": "Basic",
+  "Education": "Bachelor",
+  "EmploymentStatus": "Employed",
+  "Gender": "F",
+  "Income": 50000,
+  "Location Code": "Suburban",
+  "Marital Status": "Married",
+  "Months Since Last Claim": 12,
+  "Months Since Policy Inception": 36,
+  "Number of Open Complaints": 0,
+  "Number of Policies": 1,
+  "Policy Type": "Personal Auto",
+  "Policy": "Personal L3",
+  "Renew Offer Type": "Offer1",
+  "Sales Channel": "Agent",
+  "Total Claim Amount": 450,
+  "Vehicle Class": "Four-Door Car",
+  "Vehicle Size": "Medsize"
+}
